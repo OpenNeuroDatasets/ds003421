@@ -14,5 +14,12 @@
     "Description": "age of the participant",
     "Units": "years"
   }
+"education_level": {
+    "Description": "education level",
+    "Levels": {
+      "1": "Student at university",
+      "2": "Has degree from university"
+    }
+  },
   
 }
