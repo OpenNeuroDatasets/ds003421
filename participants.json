@@ -13,7 +13,7 @@
   "age": {
     "Description": "age of the participant",
     "Units": "years"
-  }
+  },
 "education_level": {
     "Description": "education level",
     "Levels": {
