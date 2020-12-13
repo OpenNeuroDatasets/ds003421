@@ -17,7 +17,7 @@
         "Audio",
         "Memory"
     ],
-    "Name": "Dataset 2",
+    "Name": "HD-EEGtask(Dataset 2)",
     "ReferencesAndLinks": [
         "Kabbara, A., Falou, W. E., Khalil, M., Wendling, F. & Hassan, M. The dynamic functional core network of the human brain at rest. Sci. Rep. 7, 2936 (2017)",
         "Hassan, M. et al. Dynamic reorganization of functional brain networks during picture naming. Cortex 73, 276?288 (2015).",
